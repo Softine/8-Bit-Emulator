@@ -1,2 +1,4 @@
 # Softine
 Simple Ps4 Emulator In Python (With Some Others)
+# Debugging
+Do Not Use This For Debuging Use https://bgb.bircd.org/ for debugging
