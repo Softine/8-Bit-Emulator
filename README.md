@@ -1,5 +1,5 @@
 # Softine
-Simple Ps4 Emulator In Python (With Some Others)
+Simple 8 bit Emulator In Python (With Some Others)
 # Debugging
 Do Not Use This For Debuging Use https://bgb.bircd.org/ for debugging
 # Tools We Used
