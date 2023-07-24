@@ -1,4 +1,2 @@
-# Softine
-Simple 8 bit Emulator In Python
-# Tools We Used
-Visual Studio Code With The Python Extinsion
+# Chip8
+Simple Chip8 Emulator In Python
